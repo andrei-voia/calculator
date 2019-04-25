@@ -16,6 +16,7 @@ A simple pocket calculator that is able to do a series of basic operations, whic
 * fraction invertion
 * mod
 
+
 ![alt text](https://github.com/andrei-voia/personal_calculator/blob/master/Screenshot_2.png "calculator")
 
 
