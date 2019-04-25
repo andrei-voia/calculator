@@ -1,0 +1,17 @@
+D:\ANDREI\programe\Visual Studio save\calculator\calculator\bin\Debug\calculator.exe.config
+D:\ANDREI\programe\Visual Studio save\calculator\calculator\bin\Debug\calculator.exe
+D:\ANDREI\programe\Visual Studio save\calculator\calculator\bin\Debug\calculator.pdb
+D:\ANDREI\programe\Visual Studio save\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\ANDREI\programe\Visual Studio save\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\ANDREI\programe\Visual Studio save\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\ANDREI\programe\Visual Studio save\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\ANDREI\programe\Visual Studio save\calculator\calculator\obj\Debug\calculator.exe
+D:\ANDREI\programe\Visual Studio save\calculator\calculator\obj\Debug\calculator.pdb
+D:\programs\programe saves\save Visual Studio\calculator\calculator\bin\Debug\calculator.exe.config
+D:\programs\programe saves\save Visual Studio\calculator\calculator\obj\Debug\calculator.exe
+D:\programs\programe saves\save Visual Studio\calculator\calculator\obj\Debug\calculator.pdb
+D:\programs\programe saves\save Visual Studio\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\programs\programe saves\save Visual Studio\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\programs\programe saves\save Visual Studio\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\programs\programe saves\save Visual Studio\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\programs\programe saves\save Visual Studio\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
